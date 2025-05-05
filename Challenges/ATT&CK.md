@@ -24,7 +24,7 @@ Using the ATT&CK Groups section, in the group profile, it is documented that APT
 
 > Answer: TA0001 – Initial Access
 
-Explanation: This tactic encompasses methods adversaries use to gain initial access to a network, such as phishing, vulnerability exploitation, and others.
+This tactic encompasses methods adversaries use to gain initial access to a network, such as phishing, vulnerability exploitation, and others.
 
 ### A software prohibits users from accessing their account by deleting, locking the user account, changing password etc. What such software has been documented by the framework?
 
